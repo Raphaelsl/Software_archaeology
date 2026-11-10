@@ -1,6 +1,7 @@
 ## Prompts usados:
 # discovery:
-```Pagina Readme, me entregue um codigo com a estrutura para o readme com as seguintes informaçoes:
+```
+Pagina Readme, me entregue um codigo com a estrutura para o readme com as seguintes informaçoes:
 integrantes : Raphael Sousa Lameira e Ana Beatriz da Silva
 software analisado : Seven23
 link para o projeto original : https://github.com/sebastienbarbier/seven23)
