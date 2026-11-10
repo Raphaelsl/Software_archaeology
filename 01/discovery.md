@@ -31,4 +31,16 @@ O **Seven23** é um aplicativo de gerenciamento de finanças pessoais de código
 
 ## 1.3. Personas e Jobs to Be Done (JTBD)
 
-(pensar e criar personas + o jtbd)
+Carlos, 45 anos.
+Perfil: Trabalhador que prefere anotar manualmente cada gasto para manter total consciência e domínio sobre o orçamento.
+Comportamento:
+Não confia em aplicativos bancários com sincronização automática, pois costumam falhar na categorização e expõem dados sensíveis.
+Prefere o ato consciente de digitar cada compra para evitar gastos por impulso.
+Uso no Seven23: Utiliza a plataforma como um "caderninho digital" privado, seguro e organizado por categorias simples, sem distrações ou propagandas.
+
+Mariana, 22 anos.
+Perfil: Pessoa que lida rotineiramente com diferentes moedas (seja em viagens, compras internacionais ou trabalhos freelancer) e precisa de clareza em seus saldos.
+Comportamento:
+Sofre com conversores automáticos imprecisos em ferramentas tradicionais.
+Precisa registrar transações estrangeiras aplicando a taxa de câmbio real e exata do dia da compra.
+Uso no Seven23: Aproveita o suporte a múltiplas moedas para gerenciar fluxos financeiros complexos e consolidar diferentes saldos em um único painel seguro.
