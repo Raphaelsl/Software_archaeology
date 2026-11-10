@@ -18,7 +18,7 @@ O objetivo deste projeto é investigar, compreender e evoluir um software livre 
 ## Resumo da Proposta de Evolução
 [ Ainda nao definimos]
 
-##instruções para executar a intervenção, quando aplicável
+## instruções para executar a intervenção, quando aplicável
 [ Ainda nao definimos]
 
 ## Estrutura do Repositório
