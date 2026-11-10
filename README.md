@@ -16,7 +16,10 @@
 O objetivo deste projeto é investigar, compreender e evoluir um software livre existente, simulando a atuação de um engenheiro de software diante de um sistema real. A investigação baseia-se na coleta de evidências do repositório (código-fonte, issues, commits e documentação) para mapear o processo de desenvolvimento, reconstruir os requisitos do sistema e modelar sua arquitetura em UML. Ao final, a equipe deve justificar e implementar experimentalmente uma proposta de melhoria que agregue valor ao projeto original.
 
 ## Resumo da Proposta de Evolução
-[A definir: O texto desta seção será adicionado assim que a intervenção prática for escolhida na fase 3 do trabalho.]
+[ Ainda nao definimos]
+
+##instruções para executar a intervenção, quando aplicável
+[ Ainda nao definimos]
 
 ## Estrutura do Repositório
 A documentação e os artefatos gerados estão organizados nos seguintes diretórios:
