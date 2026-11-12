@@ -37,6 +37,8 @@ O **Seven23** é um aplicativo de gerenciamento de finanças pessoais de código
 Não confia em aplicativos bancários com sincronização automática, pois costumam falhar na categorização e expõem dados sensíveis.
 Prefere o ato consciente de digitar cada compra para evitar gastos por impulso.
 * Uso no Seven23: Utiliza a plataforma como um "caderninho digital" privado, seguro e organizado por categorias simples, sem distrações ou propagandas.
+* **Jobs to Be Done:**
+* *Quando* eu realizo uma compra no meu dia a dia, *quero* registrar esse gasto manualmente em um ambiente privado e sem sincronização bancária automática, *para que* eu mantenha total consciência sobre meus gastos e evite que meus dados sejam expostos.
 
 **Mariana**, 22 anos.
 * Perfil: Pessoa que lida rotineiramente com diferentes moedas (seja em viagens, compras internacionais ou trabalhos freelancer) e precisa de clareza em seus saldos.
@@ -44,3 +46,5 @@ Prefere o ato consciente de digitar cada compra para evitar gastos por impulso.
 Sofre com conversores automáticos imprecisos em ferramentas tradicionais.
 Precisa registrar transações estrangeiras aplicando a taxa de câmbio real e exata do dia da compra.
 * Uso no Seven23: Aproveita o suporte a múltiplas moedas para gerenciar fluxos financeiros complexos e consolidar diferentes saldos em um único painel seguro.
+* **Jobs to Be Done:**
+* *Quando* eu realizo transações em moedas estrangeiras, *quero* registrar o valor na moeda original aplicando a taxa de câmbio exata do dia, *para que* eu tenha um painel consolidado e preciso do meu saldo real, sem depender de conversores automáticos falhos.
