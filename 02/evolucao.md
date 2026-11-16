@@ -11,7 +11,7 @@
 * Este acontecimento mostra o momento em que o Seven23 adotou a arquitetura Privacy by Design, criptografando tudo no navegador antes de enviar para a API.
 <img width="1531" height="854" alt="Captura de tela 2026-11-16 164956" src="https://github.com/user-attachments/assets/b1f9d9d1-ce10-4b9f-a149-2b88af010ade" />
 
-* O método key utiliza a API nativa do navegador para transformar a senha digitada pelo usuário em uma chave criptográfica segura ( retirado de : ** encryption.js**)
+* O método key utiliza a API nativa do navegador para transformar a senha digitada pelo usuário em uma chave criptográfica segura ( retirado de : **encryption.js**)
 <img width="816" height="517" alt="Captura de tela 2026-11-16 164729" src="https://github.com/user-attachments/assets/99225c34-d8a4-42a1-86b1-d3a2e30caf5a" />
 
 
