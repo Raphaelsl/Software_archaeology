@@ -11,6 +11,8 @@
 **Seven23** - Um gerenciador de despesas pessoais de código aberto focado em privacidade, com sincronização e criptografia de ponta a ponta.
 
 * **Link para o projeto original:** [https://github.com/sebastienbarbier/seven23](https://github.com/sebastienbarbier/seven23)
+  <img width="1174" height="584" alt="image" src="https://github.com/user-attachments/assets/b3f80f05-c456-484c-aa5e-1f982ea3e1cd" />
+
 
 ## Objetivo do Trabalho
 O objetivo deste projeto é investigar, compreender e evoluir um software livre existente, simulando a atuação de um engenheiro de software diante de um sistema real. A investigação baseia-se na coleta de evidências do repositório (código-fonte, issues, commits e documentação) para mapear o processo de desenvolvimento, reconstruir os requisitos do sistema e modelar sua arquitetura em UML. Ao final, a equipe deve justificar e implementar experimentalmente uma proposta de melhoria que agregue valor ao projeto original.
