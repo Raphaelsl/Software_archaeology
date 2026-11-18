@@ -4,7 +4,7 @@
 O **Seven23** é um aplicativo de gerenciamento de finanças pessoais de código aberto, projetado para registrar despesas e receitas. 
 
 * **Problema que o software resolve:** A falta de privacidade em aplicativos financeiros tradicionais, que frequentemente utilizam ou vendem dados bancários dos usuários. O Seven23 resolve isso implementando criptografia de ponta a ponta (E2EE), garantindo que apenas o usuário tenha acesso aos dados reais de suas transações.
-  * *Evidência:* Descrito no parágrafo introdutório do `README.md` oficial do repositório:
+  *  Descrito no parágrafo introdutório do `README.md` oficial do repositório:
    <img width="864" height="388" alt="image" src="https://github.com/user-attachments/assets/c2e00cde-dba8-4bc3-8f60-d25e535d726a" />
 
 * **Público-alvo:** Indivíduos preocupados com a privacidade de seus dados digitais, defensores do código aberto e pessoas que desejam controle estrito sobre seu orçamento pessoal sem rastreamento de terceiros.
